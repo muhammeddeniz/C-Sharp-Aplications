@@ -1,0 +1,16 @@
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\obj\Debug\OtelOtomasyonu.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\obj\Debug\OthelOtomasyonu.Form1.resources
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\obj\Debug\OthelOtomasyonu.Form2.resources
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\obj\Debug\OthelOtomasyonu.Form3.resources
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\obj\Debug\OthelOtomasyonu.Form4.resources
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\obj\Debug\OthelOtomasyonu.Form5.resources
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\obj\Debug\OthelOtomasyonu.Properties.Resources.resources
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\obj\Debug\OthelOtomasyonu.exe
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\obj\Debug\OthelOtomasyonu.pdb
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\bin\Debug\OthelOtomasyonu.exe.config
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\bin\Debug\OthelOtomasyonu.exe
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\bin\Debug\OthelOtomasyonu.pdb
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\obj\Debug\OthelOtomasyonu.Form6.resources
+C:\Users\muhammed\Desktop\OthelOtomasyonu\OthelOtomasyonu\obj\Debug\OthelOtomasyonu.Form7.resources
